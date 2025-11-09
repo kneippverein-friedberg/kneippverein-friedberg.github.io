@@ -1,0 +1,12 @@
+title: Kneipverein Freidberg e. V.
+#tagline: Résumé and portfolio
+description: 
+url: https://www.kneippverein-friedberg.de
+author: Bernhard Werner
+
+
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
