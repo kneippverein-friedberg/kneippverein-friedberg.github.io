@@ -1,6 +1,6 @@
 @font-face { font-family: 'Nebula'; src: url(/assets/fonts/NebulaSans-Book.ttf) format("truetype"); font-weight: normal; font-style: normal; }
 @font-face { font-family: 'Nebula'; src: url(/assets/fonts/NebulaSans-Bold.ttf) format("truetype"); font-weight: bold; font-style: normal; }
-body { min-height: 100vh; font-family: 'Nebula'; }
+body { min-height: 100vh; font-family: 'Nebula'; font-size: large; }
 
 ::selection { background-color: #37bdee; }
 
@@ -26,10 +26,18 @@ img.centered { display: block; margin-left: auto; margin-right: auto; max-height
 
 @media screen and (max-width: 620px) { img.centered { max-width: 70vw; } }
 @media screen and (min-width: 621px) { img.centered { max-width: 400px; } }
-.btn-outline-primary { color: #004f9f; border-color: #004f9f; }
+ol ol { list-style-type: lower-alpha; }
 
-.btn-outline-primary:hover { background-color: #004f9f; border-color: #004f9f; }
+.btn-outline-primary { color: #1881b8 !important; border-color: #1881b8; }
+
+.btn-outline-primary:hover { background-color: #1881b8; border-color: #1881b8; }
 
 .btn-outline-primary:focus { outline: none !important; box-shadow: none; }
 
 .highlight { padding: 10px; }
+
+.button1 { position: relative; background-color: white; color: #1881b8 !important; border: none; border-radius: 5px; padding: 10px 20px; text-decoration: none; font-weight: bold; transition: top 0.1s; outline: solid #1881b8 2px; box-shadow: 0px 5px; }
+
+.button1:hover, .button1:focus { background-color: #1881b8; color: white !important; box-shadow: 0px 5px !important; }
+
+.button1:active { outline: solid #1881b8 2px !important; box-shadow: none !important; background-color: white; color: #1881b8; top: 4px !important; }

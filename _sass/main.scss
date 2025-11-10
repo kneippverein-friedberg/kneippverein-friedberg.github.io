@@ -22,6 +22,7 @@ $blue3: #1881b8;
 body {
   min-height:100vh;
   font-family: 'Nebula';
+  font-size: large;
 }
 
 ::selection {
@@ -114,16 +115,18 @@ img.centered {
 }
 
 
-
+ol ol {
+  list-style-type: lower-alpha;
+}
 
 
 .btn-outline-primary {
-  color: $blue1;
-  border-color: $blue1;
+  color: $blue3 !important;
+  border-color: $blue3;
 }
 .btn-outline-primary:hover {
-  background-color: $blue1;
-  border-color: $blue1;
+  background-color: $blue3;
+  border-color: $blue3;
 }
 .btn-outline-primary:focus {
   outline: none !important;
@@ -134,3 +137,36 @@ img.centered {
 .highlight {
   padding: 10px;
 }
+
+
+.button1 {
+  position: relative;
+  background-color: white;
+  color: $blue3 !important;
+  border: none;
+  border-radius: 5px;
+  padding: 10px 20px;
+  text-decoration: none;
+  font-weight: bold;
+  transition: top 0.1s;
+  outline: solid $blue3 2px;
+  box-shadow: 0px 5px;
+}
+.button1:hover, .button1:focus {
+  background-color: $blue3;
+  color: white !important;
+  box-shadow: 0px 5px !important;
+
+
+
+}
+.button1:active {
+  outline: solid $blue3 2px !important;
+  box-shadow: none !important;
+  background-color: white;
+  color: $blue3;
+  top: 4px !important;
+}
+
+
+
