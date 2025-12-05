@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>https://www.kneippverein-friedberg.de/pages/disclaimer.html</loc>
+<loc>http://localhost:4000/pages/disclaimer.html</loc>
 </url>
 <url>
-<loc>https://www.kneippverein-friedberg.de/pages/imprint.html</loc>
+<loc>http://localhost:4000/pages/imprint.html</loc>
 </url>
 <url>
-<loc>https://www.kneippverein-friedberg.de/</loc>
+<loc>http://localhost:4000/</loc>
 </url>
 <url>
-<loc>https://www.kneippverein-friedberg.de/assets/documents/satzung_2019.pdf</loc>
+<loc>http://localhost:4000/assets/documents/satzung_2019.pdf</loc>
 <lastmod>2025-11-09T11:22:04+01:00</lastmod>
 </url>
 <url>
-<loc>https://www.kneippverein-friedberg.de/assets/images/logo.pdf</loc>
+<loc>http://localhost:4000/assets/images/logo.pdf</loc>
 <lastmod>2025-11-09T11:22:14+01:00</lastmod>
 </url>
 </urlset>
