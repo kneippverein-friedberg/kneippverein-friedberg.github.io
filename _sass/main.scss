@@ -171,3 +171,14 @@ ol ol {
 
 
 
+table {
+  border-collapse: collapse;
+}
+
+table, th, td {
+  border: 1px solid;
+}
+
+ th, td {
+  padding: 2px 10px 2px 10px;
+} 

@@ -1,0 +1,81 @@
+<div class="container">
+  
+<div class="container-fluid d-flex align-items-end justify-content-center mt-5 mb-5">
+    <div class="row" style="max-width: 1150px;">
+        <div class="col">
+            <center class="mb-3">
+                <a href="/assets/documents/beitrittserklaerung.pdf" target="_blank" class="btn button1 btn-lg d-flex justify-content-center" role="button" style="min-width: 350px;"><i class="fs-2 ph-bold ph-file-pdf"></i>&#8194; Unser aktuelles Kurssprogramm als PDF</a>
+            </center>
+        </div>
+    </div>
+</div>
+  
+
+      <!-- <center class="mb-5">
+        <table>
+          <tr style="border-bottom: solid black 1px;">
+            <th style="min-width: 300px;">Übungsleiterinnen & -leiter</th>
+            <th style="min-width: 350px;">Angebotende Kurse</th>
+          </tr>
+          {% for item in site.data.trainers %}
+            {% assign mod = forloop.index0 | modulo:2 %}
+            {% if mod == 1 %}
+                <tr style="height:40px;">
+            {% else %}
+                <tr style="height:40px; background-color: #eee;">
+            {% endif %}
+                <td>{{ item.name }}</td>
+                <td>
+                    {% for task in item.tasks %}
+                        {{ task }}<br>
+                    {% endfor %}
+                </td>
+            </tr>
+          {% endfor %}
+        </table> 
+      </center> -->
+
+    <center class="mb-5">
+        <table>
+          <tr>
+            <th style="min-width: 140px;">Wochentag</th>
+            <th style="min-width: 140px;">Was</th>
+            <th style="min-width: 140px;">Wann</th>
+            <th style="min-width: 140px;">Wie lange<br>& ab wann</th>
+            <th style="min-width: 140px;">Wo</th>
+            <th style="min-width: 140px;">Wie viel €<br>(Mitglieder/Gäste)</th>
+            <th style="min-width: 160px;">Wer</th>
+          </tr>
+          {% for day in site.data.courses %}
+            {% assign mod = forloop.index0 | modulo:2 %}
+            {% for item in day.courses %}
+            {% if mod == 1 %}
+                <tr style="height:40px;">
+            {% else %}
+                <tr style="height:40px; background-color: #eee;">
+            {% endif %}
+                {% if forloop.index == 1 %}
+                    <td rowspan="{{ day.courses.size }}">{{ day.day }}</td>
+                {% endif %}
+                <td>
+                    <b>{{ item.name }}</b>
+                    {% if item.comment %}
+                        <br>{{ item.comment }}
+                    {% endif %}
+                </td>
+                <td>{{ item.slot }}</td>
+                <td>{{ item.duration }}<br>{{ item.start }}</td>
+                <td>{{ item.place }}</td>
+                <td>{{ item.price.member }} / {{ item.price.guest }}</td>
+                <td>
+                    {% for trainer in item.trainers %}
+                        {{ trainer.name }}<br>{{ trainer.contact }}<br>
+                    {% endfor %}
+                </td>
+            {% endfor %}
+            </tr>
+          {% endfor %}
+        </table> 
+    </center>
+
+</div>
