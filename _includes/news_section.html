@@ -3,8 +3,9 @@
     {% assign mod = forloop.index0 | modulo:2 %}
     {% if mod == 1 %}
         <div class="row mt-5 mb-5 gy-3">    
-            <div class="col-sm-12 col-md-5 order-md-last">
-                <img src="{{ item.image }}" alt="{{ item.title }}" class="" style="max-width:450px; width:100%;">
+            <div class="col-sm-12 col-md-5 order-md-last justify-content-center">
+                <img src="{{ item.image }}" alt="{{ item.title }}" class="mb-1" style="max-width:450px; width:100%;">
+                <p>{{ item.image_copyright }}</p>
             </div>
             <div class="col-sm-12 col-md-7 order-md-first text-md-end">
                 <h5 class="fw-bold">{{ item.title }}</h5>
@@ -18,7 +19,9 @@
     {% else %}
         <div class="row mt-5 mb-5 gy-3">    
             <div class="col-sm-12 col-md-5 text-md-end">
-                <img src="{{ item.image }}" alt="{{ item.title }}" class="" style="max-width:450px; width:100%;">
+                <img src="{{ item.image }}" alt="{{ item.title }}" class="mb-1" style="max-width:450px; width:100%;">
+                <p>{{ item.image_copyright }}</p>
+
             </div>
             <div class="col-sm-12 col-md-7">
                 <h5 class="fw-bold">{{ item.title }}</h5>

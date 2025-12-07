@@ -1,64 +1,33 @@
-- title: "Programmheft 2025 Nummer 3"
-  date: "Winter 2025"
-  image: /assets/images/news/placeholder_news_01.png
-  text: "Unser aktuelles Programmheft" 
+- title: "Programmheft 2026/1 Januar&ndash;April"
+  date: ""
+  image: /assets/images/news/programm_2026_1_d.png
+  image_copyright: ""
+  text: 'Liebe Mitglieder des Kneipp Vereins Friedbergs,<br>anbei finden Sie das aktuelle Programm. Wir bieten wieder 2 Vorträge zu Kräuterthemen und 3 neue Kurse an:<br>- 10-wöchiger Kurs "Pilates für Einsteiger"<br>- Kurzkurs "Schulter-Hals-Nacken"<br>- Kurzkurs "Neurokinetik"'
   links:
     - text: Zum Download
-      url: /assets/documents/satzung_2019.pdf
+      url: /assets/documents/programm_2026_1.pdf
+
+
+- title: "Jahresmotto 2026"
+  date: ""
+  image: /assets/images/news/jahresmotto_2026_klein.png
+  image_copyright: "Bildnachweis: Kneipp Bund"
+  text: "<b>Fünf gewinnt &ndash; die Kraft der Kneipp'schen Elemente</b><br>2026 steht ganz im Zeichen der fünf Elemente, die das Fundament der Kneipp'schen Gesundheitslehre bilden: Wasser, Bewegung, Ernährung, Heilpflanzen und Lebensordnung. Die fünf Elemente sind die Grundlage eines ganzheitlichen Konzepts für Gesundheitsförderung und -prävention, das heute noch so aktuell ist wie zu Sebastian Kneipps Zeiten."
+  links:
+
+- title: "Adventliches Beisammensein im Café Mahl"
+  date: ""
+  image: /assets/images/news/cafe_mahl.jpg
+  image_copyright: "Bildnachweis: C. Krüger"
+  text: 'Wie letztes Jahr trafen sich ca. 30 Mitglieder, Übungsleiter und Vorstände zum vorweihnachtlichen Kaffee. In gemütlicher Run de war viel Zeit zum Plauschen. Unsere Beirätin Barbara Löber stimmte ein Weihnachtslied mit Polonaise an. '
+  links:
 
 
 - title: "Wer war Sebastian Kneipp?"
-  date: "08. October 2024"
-  image: /assets/images/news/placeholder_news_02.png
-  text: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore etdolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor" 
+  date: ""
+  image: /assets/images/news/kneipp.jpg
+  image_copyright: "Bildnachweis: Kneipp Bund"
+  text: 'Er (1821-1897) ist für sein ganzheitliches Gesundheitskonzept bekannt und geschätzt. Eigentlich war er aber von Beruf gar nicht Mediziner, sondern Pfarrer. Diesen Berufswunsch hatte Kneipp schon sehr früh und es gelang ihm trotz vieler Hindernisse ihn zu verwirklichen. Als Pfarrer hat er auch bis zum Ruhestand gewirkt.<br>Als er selbst in Dillingen an Tuberkulose erkrankte, heilte er sich durch eiskalte Bäder in der Donau und entwickelte später aus dieser Erfahrung sein Gesundheitskonzept, mit dem er Kranke heilte und letztlich weltweite Bekanntheit erlangt. Gleichzeitig wies er immer wieder auf die vorbeugende Wirkung einer gesunden Lebensweise hin.<br>Kneipp hinterließ der Nachwelt viele Schriften. Es gibt zahlreiche Kneipp-Kurorte und Kneipp-Anlagen in Deutschland. Untrennbar mit dem Namen verbunden ist speziell Bad Wörishofen, wo Kneipp seit 1855 wirkte.'
   links:
-    - text: <span class="ph ph-arrow-square-out"></span> Wikipedia-Artikel zu Sebastian Kneipp
-      url: https://de.wikipedia.org/wiki/Sebastian_Kneipp
-
-
-
-# - title: "Wer war Sebastian Kneipp?"
-#   date: "07. September 2023"
-#   image: /assets/images/news/placeholder_news_03.png
-#   text: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor" 
-#   links:
-#     - text: <span class="ph ph-arrow-square-out"></span> Wikipedia-Artikel zu Sebastian Kneipp
-#       url: https://de.wikipedia.org/wiki/Sebastian_Kneipp
-#     - text: <span class="ph ph-arrow-square-out"></span> Wikipedia-Artikel zu Sebastian Kneipp
-#       url: https://de.wikipedia.org/wiki/Sebastian_Kneipp
-
-
-
-
-# - title: "Wer war Sebastian Kneipp?"
-#   date: "06. August 2022"
-#   image: /assets/images/news/placeholder_news_01.png
-#   text: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor" 
-#   links:
-#     - text: <span class="ph ph-arrow-square-out"></span> Wikipedia-Artikel zu Sebastian Kneipp
-#       url: https://de.wikipedia.org/wiki/Sebastian_Kneipp
-#     - text: <span class="ph ph-arrow-square-out"></span> Wikipedia-Artikel zu Sebastian Kneipp
-#       url: https://de.wikipedia.org/wiki/Sebastian_Kneipp
-#     - text: <span class="ph ph-arrow-square-out"></span> Wikipedia-Artikel zu Sebastian Kneipp
-#       url: https://de.wikipedia.org/wiki/Sebastian_Kneipp
-
-
-
-
-# - title: "Wer war Sebastian Kneipp?"
-#   date: "05. Juli 2021"
-#   image: /assets/images/news/placeholder_news_02.png
-#   text: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor" 
-#   links:
-
-
-
-
-# - title: "Wer war Sebastian Kneipp?"
-#   date: "04. Juni 2020"
-#   image: /assets/images/news/placeholder_news_03.png
-#   text: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor" 
-#   links:
-
 
 

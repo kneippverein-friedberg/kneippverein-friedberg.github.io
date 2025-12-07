@@ -1,0 +1,49 @@
+@font-face { font-family: 'Nebula'; src: url(/assets/fonts/NebulaSans-Book.ttf) format("truetype"); font-weight: normal; font-style: normal; }
+@font-face { font-family: 'Nebula'; src: url(/assets/fonts/NebulaSans-Bold.ttf) format("truetype"); font-weight: bold; font-style: normal; }
+body { min-height: 100vh; font-family: 'Nebula'; font-size: large; }
+
+::selection { background-color: #37bdee; }
+
+.top-bar { height: 40px; background-color: #004f9f; color: white; font-size: large; display: flex !important; align-items: center !important; }
+
+.flex-fill { flex: 1 1 auto; }
+
+a { color: #004f9f; }
+
+a:link { color: #004f9f; }
+
+a:hover { color: #37bdee; }
+
+h1 a, h2 a, h3 a, h4 a, h5 a, h6 a { text-decoration: none; }
+
+button[role=tab] { background-color: white !important; font-size: x-large; font-weight: bold; color: #1881b8; }
+
+button[role=tab].active { background-color: #1881b8 !important; }
+
+.display-6 { font-size: 2rem; }
+
+img.centered { display: block; margin-left: auto; margin-right: auto; max-height: 500px; margin-top: 40px; margin-bottom: 40px; }
+
+@media screen and (max-width: 620px) { img.centered { max-width: 70vw; } }
+@media screen and (min-width: 621px) { img.centered { max-width: 400px; } }
+ol ol { list-style-type: lower-alpha; }
+
+.btn-outline-primary { color: #1881b8 !important; border-color: #1881b8; }
+
+.btn-outline-primary:hover { background-color: #1881b8; color: white !important; border-color: #1881b8; }
+
+.btn-outline-primary:focus { outline: none !important; box-shadow: none; }
+
+.highlight { padding: 10px; }
+
+.button1 { position: relative; background-color: white; color: #1881b8 !important; border: none; border-radius: 5px; padding: 10px 20px; text-decoration: none; font-weight: bold; transition: top 0.1s; outline: solid #1881b8 2px; box-shadow: 0px 5px; }
+
+.button1:hover, .button1:focus { background-color: #1881b8; color: white !important; box-shadow: 0px 5px !important; }
+
+.button1:active { outline: solid #1881b8 2px !important; box-shadow: none !important; background-color: white; color: #1881b8; top: 4px !important; }
+
+table { border-collapse: collapse; }
+
+table, th, td { border: 1px solid; }
+
+th, td { padding: 2px 10px 2px 10px; }

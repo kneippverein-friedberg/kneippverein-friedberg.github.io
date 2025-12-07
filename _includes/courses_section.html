@@ -4,14 +4,14 @@
     <div class="row" style="max-width: 1150px;">
         <div class="col">
             <center class="mb-3">
-                <a href="/assets/documents/beitrittserklaerung.pdf" target="_blank" class="btn button1 btn-lg d-flex justify-content-center" role="button" style="min-width: 350px;"><i class="fs-2 ph-bold ph-file-pdf"></i>&#8194; Unser aktuelles Kurssprogramm als PDF</a>
+                <a href="/assets/documents/programm_2026_1.pdf" target="_blank" class="btn button1 btn-lg d-flex justify-content-center" role="button" style="min-width: 350px;"><i class="fs-2 ph-bold ph-file-pdf"></i>&#8194; Unser aktuelles Kursprogramm als PDF</a>
             </center>
         </div>
     </div>
 </div>
   
 
-      <!-- <center class="mb-5">
+      <center class="mb-5">
         <table>
           <tr style="border-bottom: solid black 1px;">
             <th style="min-width: 300px;">Übungsleiterinnen & -leiter</th>
@@ -33,8 +33,13 @@
             </tr>
           {% endfor %}
         </table> 
-      </center> -->
+      </center>
 
+
+
+ 
+ 
+ <!-- <p>Orte:<br>K - Kneipp Treff<br>GH - Gymnastikhalle über dem Stadtbad<br>SB - Stadtbad<br>RB - Realschulbad</p> -->
     <center class="mb-5">
         <table>
           <tr>
@@ -66,6 +71,7 @@
                 <td>{{ item.slot }}</td>
                 <td>{{ item.duration }}<br>{{ item.start }}</td>
                 <td>{{ item.place }}</td>
+                <!-- <td>{{ item.place_short }}</td> -->
                 <td>{{ item.price.member }} / {{ item.price.guest }}</td>
                 <td>
                     {% for trainer in item.trainers %}

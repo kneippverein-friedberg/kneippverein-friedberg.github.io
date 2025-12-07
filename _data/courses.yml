@@ -6,6 +6,7 @@
       duration: "11 x 60 min"
       start: "12.01.2026"
       place: "Kneipp Treff"
+      place_short: "K"
       price:
         member: "40,70"
         guest: "51,70"
@@ -19,6 +20,7 @@
       duration: "11 x 60 min"
       start: "12.01.2026"
       place: "Kneipp Treff"
+      place_short: "K"
       price:
         member: "40,70"
         guest: "51,70"
@@ -32,6 +34,7 @@
       duration: "11 x 60 min"
       start: "12.01.2026"
       place: "Kneipp Treff"
+      place_short: "K"
       price:
         member: "49,50"
         guest: "66,-"
@@ -45,6 +48,7 @@
       duration: "10 x 75 min"
       start: "12.01.2026"
       place: "Kneipp Treff"
+      place_short: "K"
       price:
         member: "57,-"
         guest: "75,-"
@@ -58,6 +62,7 @@
       duration: "10 x 45 min"
       start: "12.01.2026"
       place: "Realschulbad"
+      place_short: "RB"
       price:
         member: "37,-"
         guest: "47,-"
@@ -75,6 +80,7 @@
       duration: "10 x 60 min"
       start: "13.01.2026"
       place: "Gymnastikhalle (GH) über Stadtbad"
+      place_short: "GH"
       price:
         member: "37,-"
         guest: "47,-"
@@ -88,6 +94,7 @@
       duration: "9 x 60 min"
       start: "13.01.2026"
       place: "GH über Stadtbad"
+      place_short: "GH"
       price:
         member: "33,30"
         guest: "42,30"
@@ -101,6 +108,7 @@
       duration: "10 x 60 min"
       start: "13.01.2026"
       place: "Kneipp Treff"
+      place_short: "K"
       price:
         member: "37,-"
         guest: "47,-"
@@ -114,6 +122,7 @@
       duration: "10 x 75 min"
       start: "13.01.2026"
       place: "Kneipp Treff"
+      place_short: "K"
       price:
         member: "57,-"
         guest: "75,-"
@@ -127,6 +136,7 @@
       duration: "9 x 60 min"
       start: "13.01.2026"
       place: "GH über Stadtbad"
+      place_short: "GH"
       price:
         member: "33,30"
         guest: "42,30"
@@ -140,6 +150,7 @@
       duration: "10 x 45 min"
       start: "13.01.2026"
       place: "Realschulbad"
+      place_short: "RB"
       price:
         member: "37,-"
         guest: "47,-"
@@ -159,6 +170,7 @@
       duration: "10 x 45 min"
       start: "14.01.2026"
       place: "Kneipp Treff"
+      place_short: "K"
       price:
         member: "28,-"
         guest: "36,-"
@@ -173,6 +185,7 @@
       duration: "10 x 60 min"
       start: "07.01.2026"
       place: "Kneipp Treff"
+      place_short: "K"
       price:
         member: "45,-"
         guest: "60,-"
@@ -186,6 +199,7 @@
       duration: "10 x 45 min"
       start: "14.01.2026"
       place: "Kneipp Treff"
+      place_short: "K"
       price:
         member: "71,-"
         guest: "81,-"
@@ -199,6 +213,7 @@
       duration: "11 x 75 min"
       start: "07.01.2026"
       place: "Kneipp Treff"
+      place_short: "K"
       price:
         member: "62,70"
         guest: "86,50"
@@ -212,6 +227,7 @@
       duration: "2 x 60 min"
       start: "11.02.2026<br>18.03.2026"
       place: "Kneipp Treff"
+      place_short: "K"
       price:
         member: "5,-"
         guest: "7,-"
@@ -229,6 +245,7 @@
       duration: "10 x 75 min"
       start: "15.01.2026"
       place: "Kneipp Treff"
+      place_short: "K"
       price:
         member: "57,-"
         guest: "75,-"
@@ -242,6 +259,7 @@
       duration: "11 x 60 min"
       start: "08.01.2026"
       place: "GH über Stadtbad"
+      place_short: "GH"
       price:
         member: "40,70"
         guest: "51,70"
@@ -255,6 +273,7 @@
       duration: "10 x 45 min"
       start: "15.01.2026"
       place: "Stadtbad"
+      place_short: "SB"
       price:
         member: "71,-"
         guest: "81,-"
@@ -268,6 +287,7 @@
       duration: "10 x 45 min"
       start: "15.01.2026"
       place: "Realschulbad"
+      place_short: "RB"
       price:
         member: "44,60"
         guest: "56,40"
@@ -281,6 +301,7 @@
       duration: "10 x 60 min"
       start: "08.01.2026"
       place: "Kneipp Treff"
+      place_short: "K"
       price:
         member: "45,-"
         guest: "60,-"
@@ -294,6 +315,7 @@
       duration: "10 x 75 min"
       start: "08.01.2026"
       place: "Kneipp Treff"
+      place_short: "K"
       price:
         member: "57,-"
         guest: "75,-"
@@ -307,6 +329,7 @@
       duration: "10 x 60 min"
       start: "08.01.2026"
       place: "Kneipp Treff"
+      place_short: "K"
       price:
         member: "45,-"
         guest: "60,-"
@@ -324,6 +347,7 @@
       duration: "3 x 75 min"
       start: "27.02.2026"
       place: "Kneipp Treff"
+      place_short: "K"
       price:
         member: "22,50"
         guest: "30,-"
@@ -337,6 +361,7 @@
       duration: "3 x 60 min"
       start: "23.01.2026"
       place: "Kneipp Treff"
+      place_short: "K"
       price:
         member: "18,-"
         guest: "24,-"
