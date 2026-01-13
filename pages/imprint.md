@@ -3,7 +3,7 @@ layout: page
 title: Impressum
 ---
 
-Kneipp Verein Friedberg e.V.
+Kneipp-Verein Friedberg e.V.
 {: .mb-5}
 
 1\. Vorsitzende: Marianne von Wachter
@@ -11,7 +11,7 @@ Kneipp Verein Friedberg e.V.
 2\. Vorsitzender: Christian Bartl
 {: .mb-5}
 
-Postanschrift:<br>Johannesstraße 26 <br>86316 Friedberg
+Postanschrift:<br>Bauernbräustraße 4<br>86316 Friedberg
 {: .mb-5}
 
 Telefon:<br>0821 248 41 85
