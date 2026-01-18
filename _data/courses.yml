@@ -194,8 +194,8 @@
           contact: "0821 707078"
 
     - name: "Aquafitness"
-      comment: Gebühr inkl. eintritt für 1,5 h
-      slot: "16:00&ndash;17:00<br>19:00&ndash;20:00"
+      comment: Gebühr inkl. Eintritt für 1,5 h
+      slot: "10:30&ndash;11:15<br>11:30&ndash;12:15"
       duration: "10 x 45 min"
       start: "14.01.2026"
       place: "Kneipp Treff"
