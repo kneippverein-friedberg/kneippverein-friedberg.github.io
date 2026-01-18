@@ -23,4 +23,4 @@ EMail:<br>[info@kneippverein-friedberg.de](mailto:info@kneippverein-friedberg.de
 Bankverbindung:<br>Stadtsparkasse Augsburg<br>IBAN: DE 76 7205 0000 0240 0959 35
 {: .mb-5}
 
-Registergericht Bamberg: VR 10447
+Registergericht Augsburg: VR 10447
