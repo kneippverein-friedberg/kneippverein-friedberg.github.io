@@ -1,4 +1,4 @@
-- title: "Programmheft 2026/2 April&ndash;August"
+  - title: "Programmheft 2026/2 April&ndash;August"
   date: ""
   image: /assets/images/news/programm_2026_2_bild.png
   image_copyright: " "
@@ -8,7 +8,7 @@
       url: /assets/documents/programm_2026_2.pdf
 
   
-- title: "Wanderungen mit Hanni und Herbert Maier"
+  - title: "Wanderungen mit Hanni und Herbert Maier"
   date: "02.05.2026, 06.06.2026, 11.07.2026"
   image: /assets/images/news/wanderungen_2026_2.png
   image_copyright: " "
@@ -16,7 +16,7 @@
   links:
 
   
-- title: 'Im Frühsommer aktiv'
+  - title: 'Im Frühsommer aktiv'
   date: "09.05.2026, 27.06.2025"
   image: /assets/images/news/wanderungen_rad_2026_2.png
   image_copyright: ""
@@ -24,7 +24,7 @@
   links:
 
 
- - title: "Kneippen im Sommer"
+   - title: "Kneippen im Sommer"
   date: ""
   image: /assets/images/news/Wassertreten_5.png
   image_copyright: "Bildnachweis: Kneipp Bund"
