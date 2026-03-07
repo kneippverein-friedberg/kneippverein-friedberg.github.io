@@ -337,3 +337,46 @@
           
 - day: "Freitag"
   courses:
+    - name: "Linedance"
+      comment: 
+      slot: "16:00&ndash;17:00"
+      duration: "3 x 90 min"
+      start: "24.04.2026, 08.05.2026, 22.05.2026"
+      place: "Kneipp-Treff"
+      place_short: "K"
+      price:
+        member: "27,00"
+        guest: "36,00"
+      trainers:
+        - name: "Sabine Hrabowsky"
+          contact: "0152 28216705"
+
+    courses:
+    - name: "Bunte-Gute-Laune-Stunde"
+      comment: 
+      slot: "17:15&ndash;18:15"
+      duration: "3 x 60 min"
+      start: "26.06.2026, 03.07.2026, 10.07.2026"
+      place: "Kneipp-Treff"
+      place_short: "K"
+      price:
+        member: "24,00"
+        guest: "32,00"
+      trainers:
+        - name: "Claudia Schmid"
+          contact: "0821 6070789"
+
+      courses:
+    - name: "Vortrag: Chancen eines kleinen Gartens"
+      comment: 
+      slot: "19:30"
+      duration: ""
+      start: "24.04.2026"
+      place: "Kneipp-Treff"
+      place_short: "K"
+      price:
+        member: "5,00"
+        guest: "7,00"
+      trainers:
+        - name: "Claudia Schmid"
+          contact: "keine Anmeldung erforderlich"
