@@ -1,12 +1,10 @@
-
-
 - title: "Programmheft 2026/2 April&ndash;August"
   date: ""
   image: /assets/images/news/programm_2026_2_bild.png
   image_copyright: " "
   text: "Liebe Mitglieder des Kneipp-Vereins Friedbergs,<br>anbei finden Sie das aktuelle Programm. Wir bieten unter anderem folgende neue Kurse an:<br>- "Pilates für Einsteiger" am Mittwoch<br>-  eine "Bunte-Gute-Laune-Stunde"<br>- und "Linedance"."
   links:
-    - text: "Zum Download"
+      - text: "Zum Download"
       url: /assets/documents/programm_2026_2.pdf
   
 - title: "Wanderungen mit Hanni und Herbert Maier"
@@ -20,7 +18,7 @@
   date: "09.05.2026, 27.06.2025"
   image: /assets/images/news/wanderungen_rad_2026_2.png
   image_copyright: " "
-  text: ""Zwischen Moor und Mauern &ndash; Benediktbeuren entdecken" wird von Manuela Hossain angeboten. Und eine Radtour durchs Wittelsbacher Land mit Kneippen wird von Klaus Fischer angeboten."
+  text: ""Zwischen Moor und Mauern &ndash; Benediktbeuren entdecken" wird von Manuela Hossain angeboten. Und eine Radtour durchs Wittelsbacher Land mit Kneippen wird von Klaus Fischer durchgeführt."
   links:
 
  - title: "Kneippen im Sommer"
