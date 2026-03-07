@@ -339,7 +339,7 @@
 
 - day: "Freitag"
   courses:
-    - name: "Linedance"
+  - name: "Linedance"
       comment: 
       slot: "16:00&ndash;17:30"
       duration: "3 x 90 min"
