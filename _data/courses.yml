@@ -337,7 +337,7 @@
           
 - day: "Freitag"
   courses:
-  - name: 'Linedance'
+    - name: 'Linedance'
       comment: 
       slot: "16:00&ndash;17:00"
       duration: "3 x 90 min"
@@ -351,7 +351,7 @@
         - name: "Sabine Hrabowsky"
           contact: "0152 28216705"
 
-  - name: "Bunte-Gute-Laune-Stunde"
+    - name: "Bunte-Gute-Laune-Stunde"
       comment: 
       slot: "17:15&ndash;18:15"
       duration: "3 x 60 min"
@@ -365,7 +365,7 @@
         - name: "Claudia Schmid"
           contact: "0821 6070789"
 
-  - name: "Vortrag: Chancen eines kleinen Gartens"
+    - name: "Vortrag: Chancen eines kleinen Gartens"
       comment: 
       slot: "19:30"
       duration: ""
