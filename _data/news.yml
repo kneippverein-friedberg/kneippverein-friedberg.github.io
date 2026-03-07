@@ -10,10 +10,12 @@
 
 - title: "Wanderungen mit Hanni und Herbert Maier"
   date: "02.05.2026, 06.06.2026, 11.07.2026"
-  image: /assets/images/news/wanderungen_2026_2.png
+  image: /assets/images/trainers/maier_herbert_hanni.jpg
   image_copyright: " "
   text: "Hanni und Herbert Maier bieten im Frühsommer insgesamt drei Wanderungen an. Die Routen führen nach Landsberg, Schloß Schleißheim und nach Füssen. Mehr Details entnehmen Sie dem aktuellen Programmheft."
   links:
+    - text: "Details"
+    url: /assets/images/news/wanderungen_2026_2.png
 
   
 - title: 'Im Frühsommer aktiv'
@@ -26,8 +28,8 @@
 
 - title: "Kneippen im Sommer"
   date: ""
-  image: /assets/images/news/Wassertreten_5.jpeg
+  image: /assets/images/news/Wassertreten_5.jpg
   image_copyright: "Bildnachweis: Kneipp Bund"
-  text: "In den Sommerferien bieten Barbara Löber gemeinsames Kneippen an verschiedenen Kneipp-Becken in der Umgebung an. Treffpunkt ist jeweils um 17:00 Uhr.  Die Termine sind: 04.08.2026 Mering am Lippgarten, Marienstraße 7; 11:08.2026 in Merching, Paartalweb Ecke Bahnhofstraße; 18.08.2026 in Königsbrunn im Park der Sinne, Gerstenstraße 10; 25.08.2026 in Pfersee, Ganghoferstraße 28b (Zugang an der Brücke)."
+  text: "In den Sommerferien bieten Barbara Löber gemeinsames Kneippen an verschiedenen Kneipp-Becken in der Umgebung an. Treffpunkt ist jeweils um 17:00 Uhr.  Die Termine sind: <b>04.08.2026 Mering am Lippgarten, Marienstraße 7; <b> 11:08.2026 in Merching, Paartalweb Ecke Bahnhofstraße; <b> 18.08.2026 in Königsbrunn im Park der Sinne, Gerstenstraße 10; <b> 25.08.2026 in Pfersee, Ganghoferstraße 28b (Zugang an der Brücke)."
 
 
