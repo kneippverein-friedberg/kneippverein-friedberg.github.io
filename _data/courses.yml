@@ -334,38 +334,6 @@
       trainers:
         - name: "Alexandra von Bartschikowski"
           contact: "0176 96446744"
-
-
-
+          
 - day: "Freitag"
   courses:
-
-
-    - name: "Bunte-Gute-Laune-Staunde"
-      comment: 
-      slot: "17:15&ndash;18:15"
-      duration: "3 x 60 min"
-      start: "26.06.2026, 03.07.2026, 10.07.2026"
-      place: "Kneipp-Treff"
-      place_short: "K"
-      price:
-        member: "24,00"
-        guest: "32,00"
-      trainers:
-        - name: "Claudia Schmid"
-          contact: "01590 5359840"
-
-     - name: "Vortrag: Chancen eines kleinen Gartens"
-      comment: 
-      slot: "ab 19:30"
-      duration: ""
-      start: "24.04.2026"
-      place: "Kneipp-Treff"
-      place_short: "K"
-      price:
-        member: "5,00"
-        guest: "7,00"
-      trainers:
-        - name: "Claudia Schmid"
-          contact: "keine Anmeldung erforderlich"
-
