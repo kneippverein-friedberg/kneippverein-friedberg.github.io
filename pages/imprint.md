@@ -8,7 +8,7 @@ Kneipp-Verein Friedberg e.V.
 
 1\. Vorsitzende: Marianne von Wachter
 
-2\. Vorsitzender: Christian Bartl
+2\. Vorsitzender: Angelika Hamann
 {: .mb-5}
 
 Postanschrift:<br>Bauernbräustraße 4<br>86316 Friedberg
