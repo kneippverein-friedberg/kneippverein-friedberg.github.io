@@ -5,7 +5,7 @@
       slot: "14:15&ndash;15:15<br>15:30&ndash;16:30"
       duration: "12 x 60 min"
       start: "13.04.2026"
-      place: "Kneipp-Treff"
+      place: "KneippTreff"
       place_short: "K"
       price:
         member: "44,40"
@@ -19,7 +19,7 @@
       slot: "16:45&ndash;17:45"
       duration: "12 x 60 min"
       start: "13.04.2026"
-      place: "Kneipp-Treff"
+      place: "KneippTreff"
       place_short: "K"
       price:
         member: "44,40"
@@ -33,7 +33,7 @@
       slot: "18:00&ndash;19:00"
       duration: "12 x 60 min"
       start: "13.04.2026"
-      place: "Kneipp-Treff"
+      place: "KneippTreff"
       place_short: "K"
       price:
         member: "54,00"
@@ -47,7 +47,7 @@
       slot: "19:15&ndash;20:30"
       duration: "10 x 75 min"
       start: "13.04.2026"
-      place: "Kneipp-Treff"
+      place: "KneippTreff"
       place_short: "K"
       price:
         member: "57,00"
@@ -107,7 +107,7 @@
       slot: "17:00&ndash;18:00"
       duration: "12 x 60 min"
       start: "14.04.2026"
-      place: "Kneipp-Treff"
+      place: "KneippTreff"
       place_short: "K"
       price:
         member: "44,40"
@@ -121,7 +121,7 @@
       slot: "18:15&ndash;19:30"
       duration: "12 x 75 min"
       start: "14.04.2026"
-      place: "Kneipp-Treff"
+      place: "KneippTreff"
       place_short: "K"
       price:
         member: "68,40"
@@ -167,7 +167,7 @@
       slot: "09:00&ndash;09:45"
       duration: "10 x 45 min"
       start: "15.04.2026"
-      place: "Kneipp-Treff"
+      place: "KneippTreff"
       place_short: "K"
       price:
         member: "28,00"
@@ -182,7 +182,7 @@
       slot: "09:50&ndash;10:50<br>11:00&ndash;12:00"
       duration: "10 x 60 min"
       start: "15.04.2026"
-      place: "Kneipp-Treff"
+      place: "KneippTreff"
       place_short: "K"
       price:
         member: "45,00"
@@ -210,7 +210,7 @@
       slot: "17:30&ndash;18:45"
       duration: "13 x 75 min"
       start: "15.04.2026"
-      place: "Kneipp-Treff"
+      place: "KneippTreff"
       place_short: "K"
       price:
         member: "74,10"
@@ -224,7 +224,7 @@
       slot: "19:00&ndash;20:00"
       duration: "10 x 60 min"
       start: "15.04.2026"
-      place: "Kneipp-Treff"
+      place: "KneippTreff"
       place_short: "K"
       price:
         member: "45,00"
@@ -242,7 +242,7 @@
       slot: "09:00&ndash;10:15<br>10:30&ndash;11:45"
       duration: "11 x 75 min"
       start: "16.04.2026"
-      place: "Kneipp-Treff"
+      place: "KneippTreff"
       place_short: "K"
       price:
         member: "62,70"
@@ -298,7 +298,7 @@
       slot: "17:00&ndash;18:00"
       duration: "10 x 60 min"
       start: "09.04.2026"
-      place: "Kneipp-Treff"
+      place: "KneippTreff"
       place_short: "K"
       price:
         member: "45,00"
@@ -312,7 +312,7 @@
       slot: "18:15&ndash;19:30"
       duration: "10 x 75 min"
       start: "09.04.2026"
-      place: "Kneipp-Treff"
+      place: "KneippTreff"
       place_short: "K"
       price:
         member: "57,00"
@@ -326,7 +326,7 @@
       slot: "19:45&ndash;20:45"
       duration: "10 x 60 min"
       start: "16.04.2026"
-      place: "Kneipp-Treff"
+      place: "KneippTreff"
       place_short: "K"
       price:
         member: "45,00"
@@ -342,7 +342,7 @@
       slot: "16:00&ndash;17:00"
       duration: "3 x 90 min"
       start: "24.04.2026, 08.05.2026, 22.05.2026"
-      place: "Kneipp-Treff"
+      place: "KneippTreff"
       place_short: "K"
       price:
         member: "27,00"
@@ -356,7 +356,7 @@
       slot: "17:15&ndash;18:15"
       duration: "3 x 60 min"
       start: "26.06.2026, 03.07.2026, 10.07.2026"
-      place: "Kneipp-Treff"
+      place: "KneippTreff"
       place_short: "K"
       price:
         member: "24,00"
@@ -370,7 +370,7 @@
       slot: "19:30"
       duration: ""
       start: "24.04.2026"
-      place: "Kneipp-Treff"
+      place: "KneippTreff"
       place_short: "K"
       price:
         member: "5,00"
