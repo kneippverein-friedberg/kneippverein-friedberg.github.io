@@ -17,7 +17,7 @@ Postanschrift:<br>Bauernbräustraße 4<br>86316 Friedberg
 Telefon:<br>0821 248 41 85
 {: .mb-5}
 
-EMail:<br>[info@kneippverein-friedberg.de](mailto:info@kneippverein-friedberg.de)
+E-Mail:<br>[info@kneippverein-friedberg.de](mailto:info@kneippverein-friedberg.de)
 {: .mb-5}
 
 Bankverbindung:<br>Stadtsparkasse Augsburg<br>IBAN: DE 76 7205 0000 0240 0959 35
