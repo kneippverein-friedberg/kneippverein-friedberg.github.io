@@ -340,13 +340,13 @@
     - name: 'Linedance'
       comment: 
       slot: "16:00&ndash;17:00"
-      duration: "3 x 90 min"
+      duration: "3 x 60 min"
       start: "24.04.2026, 08.05.2026, 22.05.2026"
       place: "KneippTreff"
       place_short: "K"
       price:
-        member: "27,00"
-        guest: "36,00"
+        member: "24,00"
+        guest: "32,00"
       trainers:
         - name: "Sabine Hrabowsky"
           contact: "0821 2679137"
