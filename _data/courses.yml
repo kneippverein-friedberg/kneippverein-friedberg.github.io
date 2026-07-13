@@ -4,7 +4,7 @@
       comment: 
       slot: "14:15&ndash;15:15<br>15:30&ndash;16:30"
       duration: "12 x 60 min"
-      start: "13.04.2026"
+      start: "21.09.2026"
       place: "KneippTreff"
       place_short: "K"
       price:
@@ -18,7 +18,7 @@
       comment: 
       slot: "16:45&ndash;17:45"
       duration: "12 x 60 min"
-      start: "13.04.2026"
+      start: "21.09.2026"
       place: "KneippTreff"
       place_short: "K"
       price:
@@ -32,7 +32,7 @@
       comment: 
       slot: "18:00&ndash;19:00"
       duration: "12 x 60 min"
-      start: "13.04.2026"
+      start: "21.09.2026"
       place: "KneippTreff"
       place_short: "K"
       price:
@@ -45,13 +45,13 @@
     - name: "Faszien-Yoga"
       comment: 
       slot: "19:15&ndash;20:30"
-      duration: "10 x 75 min"
-      start: "13.04.2026"
+      duration: "12 x 75 min"
+      start: "21.09.2026"
       place: "KneippTreff"
       place_short: "K"
       price:
-        member: "57,00"
-        guest: "75,00"
+        member: "68,40"
+        guest: "90,00"
       trainers:
         - name: "Christa Kiss"
           contact: "0821 70708"
@@ -59,13 +59,13 @@
     - name: "Aquafitness - Power & Fun"
       comment: 
       slot: "20:00&ndash;20:45"
-      duration: "11 x 45 min"
-      start: "13.04.2026"
+      duration: "12 x 45 min"
+      start: "21.09.2026"
       place: "Realschulbad"
       place_short: "RB"
       price:
-        member: "40,70"
-        guest: "51,70"
+        member: "44,40"
+        guest: "56,40"
       trainers:
         - name: "Claudia Schmid"
           contact: "01590 5359840"
@@ -78,7 +78,7 @@
       comment: 
       slot: "11:00&ndash;12:00"
       duration: "12 x 60 min"
-      start: "14.04.2026"
+      start: "15.09.2026"
       place: "Gymnastikhalle (GH) über Stadtbad"
       place_short: "GH"
       price:
@@ -92,7 +92,7 @@
       comment: 
       slot: "17:15&ndash;18:15"
       duration: "13 x 60 min"
-      start: "14.04.2026"
+      start: "15.09.2026"
       place: "GH über Stadtbad"
       place_short: "GH"
       price:
@@ -105,13 +105,13 @@
     - name: "Osteoporose-Gymnastik"
       comment: 
       slot: "17:00&ndash;18:00"
-      duration: "12 x 60 min"
-      start: "14.04.2026"
+      duration: "10 x 60 min"
+      start: "22.09.2026"
       place: "KneippTreff"
       place_short: "K"
       price:
-        member: "44,40"
-        guest: "56,40"
+        member: "37,00"
+        guest: "47,00"
       trainers:
         - name: "Susanne Thieme"
           contact: "0821 2195356"
@@ -119,13 +119,13 @@
     - name: "Yoga - Ganz entspannt"
       comment: 
       slot: "18:15&ndash;19:30"
-      duration: "12 x 75 min"
-      start: "14.04.2026"
+      duration: "10 x 75 min"
+      start: "22.09.2026"
       place: "KneippTreff"
       place_short: "K"
       price:
-        member: "68,40"
-        guest: "90,00"
+        member: "57,00"
+        guest: "75,00"
       trainers:
         - name: "Susanne Thieme"
           contact: "0821 2195356"
@@ -133,13 +133,13 @@
     - name: "Männer - Fit von Kopf bis Fuß"
       comment: 
       slot: "18:30&ndash;19:30"
-      duration: "13 x 60 min"
-      start: "14.04.2026"
+      duration: "12 x 60 min"
+      start: "15.09.2026"
       place: "GH über Stadtbad"
       place_short: "GH"
       price:
-        member: "48,10"
-        guest: "61,10"
+        member: "44,40"
+        guest: "56,40"
       trainers:
         - name: "Frank Schneider"
           contact: "0821 50897623"
@@ -147,13 +147,13 @@
     - name: "Aquafitness - Power & Fun"
       comment: 
       slot: "20:00&ndash;20:45"
-      duration: "11 x 45 min"
-      start: "14.04.2026"
+      duration: "12 x 45 min"
+      start: "22.09.2026"
       place: "Realschulbad"
       place_short: "RB"
       price:
-        member: "40,70"
-        guest: "51,70"
+        member: "44,40"
+        guest: "56,40"
       trainers:
         - name: "Claudia Schmid"
           contact: "01590 5359840"
@@ -165,13 +165,13 @@
     - name: "Fit auf dem Stuhl"
       comment: 
       slot: "09:00&ndash;09:45"
-      duration: "10 x 45 min"
-      start: "15.04.2026"
+      duration: "12 x 45 min"
+      start: "23.09.2026"
       place: "KneippTreff"
       place_short: "K"
       price:
-        member: "28,00"
-        guest: "36,00"
+        member: "33,60"
+        guest: "43,20"
       trainers:
         - name: "Christa Kiss"
           contact: "0821 707078"
@@ -180,13 +180,13 @@
     - name: "Qigong"
       comment: 
       slot: "09:50&ndash;10:50<br>11:00&ndash;12:00"
-      duration: "10 x 60 min"
-      start: "15.04.2026"
+      duration: "12 x 60 min"
+      start: "23.09.2026"
       place: "KneippTreff"
       place_short: "K"
       price:
-        member: "45,00"
-        guest: "60,00"
+        member: "54,00"
+        guest: "72,00"
       trainers:
         - name: "Christa Kiss"
           contact: "0821 707078"
@@ -194,13 +194,13 @@
     - name: "Aquafitness"
       comment: Gebühr inkl. Eintritt für 1,5 h
       slot: "10:30&ndash;11:15<br>11:30&ndash;12:15"
-      duration: "11 x 45 min"
-      start: "15.04.2026"
+      duration: "12 x 45 min"
+      start: "15.09.2026"
       place: "Stadtbad"
       place_short: "SB"
       price:
-        member: "78,10"
-        guest: "89,10"
+        member: "85,20"
+        guest: "97,20"
       trainers:
         - name: "Uschi Seyler"
           contact: "0821 6080177"
@@ -208,13 +208,13 @@
     - name: "Hatha-Yoga"
       comment: 
       slot: "17:30&ndash;18:45"
-      duration: "13 x 75 min"
-      start: "15.04.2026"
+      duration: "12 x 75 min"
+      start: "16.09.2026"
       place: "KneippTreff"
       place_short: "K"
       price:
-        member: "74,10"
-        guest: "97,50"
+        member: "68,40"
+        guest: "90,00"
       trainers:
         - name: "Doris Seidl"
           contact: "0821 602337"
@@ -222,13 +222,13 @@
     - name: "Pilates für Einsteiger"
       comment: 
       slot: "19:00&ndash;20:00"
-      duration: "10 x 60 min"
-      start: "15.04.2026"
+      duration: "12 x 60 min"
+      start: "16.09.2026"
       place: "KneippTreff"
       place_short: "K"
       price:
-        member: "45,00"
-        guest: "60,00"
+        member: "54,00"
+        guest: "72,00"
       trainers:
         - name: "Alexandra von Bartschikowski"
           contact: "0176 96446744"
@@ -241,7 +241,7 @@
       comment: 
       slot: "09:00&ndash;10:15<br>10:30&ndash;11:45"
       duration: "11 x 75 min"
-      start: "16.04.2026"
+      start: "24.09.2026"
       place: "KneippTreff"
       place_short: "K"
       price:
@@ -254,13 +254,13 @@
     - name: "Rückenfitness - Wirbelsäulengymnastik"
       comment: 
       slot: "09:15&ndash;10:15"
-      duration: "11 x 60 min"
-      start: "16.04.2026"
+      duration: "12 x 60 min"
+      start: "17.09.2026"
       place: "GH über Stadtbad"
       place_short: "GH"
       price:
-        member: "40,70"
-        guest: "51,70"
+        member: "44,40"
+        guest: "56,40"
       trainers:
         - name: "Elisabeth Walter"
           contact: "0821 781885"
@@ -268,13 +268,13 @@
     - name: "Aquafitness"
       comment: "Gebühr inkl. Eintritt für 1,5h<br><b>Tiefwasser nur ab 11:30</b>"
       slot: "09:30&ndash;10:15<br>10:30&ndash;11:15<br>11:30&ndash;12:15"
-      duration: "11 x 45 min"
-      start: "16.04.2026"
+      duration: "12 x 45 min"
+      start: "17.09.2026"
       place: "Stadtbad"
       place_short: "SB"
       price:
-        member: "78,10"
-        guest: "89,10"
+        member: "85,20"
+        guest: "97,20"
       trainers:
         - name: "Uschi Seyler"
           contact: "0821 6080177"
@@ -283,7 +283,7 @@
       comment: 
       slot: "20:00&ndash;20:45"
       duration: "12 x 45 min"
-      start: "16.04.2026"
+      start: "17.09.2026"
       place: "Realschulbad"
       place_short: "RB"
       price:
@@ -296,13 +296,13 @@
     - name: "Qigong"
       comment: 
       slot: "17:00&ndash;18:00"
-      duration: "10 x 60 min"
-      start: "09.04.2026"
+      duration: "11 x 60 min"
+      start: "24.09.2026"
       place: "KneippTreff"
       place_short: "K"
       price:
-        member: "45,00"
-        guest: "60,00"
+        member: "49,50"
+        guest: "66,00"
       trainers:
         - name: "Christa Kiss"
           contact: "0821 707078"
@@ -310,13 +310,13 @@
     - name: "Faszien-Yoga"
       comment: 
       slot: "18:15&ndash;19:30"
-      duration: "10 x 75 min"
-      start: "09.04.2026"
+      duration: "11 x 75 min"
+      start: "24.09.2026"
       place: "KneippTreff"
       place_short: "K"
       price:
-        member: "57,00"
-        guest: "75,00"
+        member: "62,70"
+        guest: "82,50"
       trainers:
         - name: "Christa Kiss"
           contact: "0821 70708"
@@ -324,57 +324,57 @@
     - name: "Pilates für Fortgeschrittene"
       comment: 
       slot: "19:45&ndash;20:45"
-      duration: "10 x 60 min"
-      start: "16.04.2026"
+      duration: "12 x 60 min"
+      start: "17.09.2026"
       place: "KneippTreff"
       place_short: "K"
       price:
-        member: "45,00"
-        guest: "60,00"
+        member: "54,00"
+        guest: "72,00"
       trainers:
         - name: "Alexandra von Bartschikowski"
           contact: "0176 96446744"
           
 - day: "Freitag"
   courses:
-    - name: 'Linedance'
+    - name: 'Hals-Nacken-Schulter'
       comment: 
-      slot: "16:00&ndash;17:00"
-      duration: "3 x 60 min"
-      start: "24.04.2026, 08.05.2026, 22.05.2026"
+      slot: "18:00&ndash;19:30"
+      duration: "3 x 90 min"
+      start: "02.10.2026, 09.10.2026, 16.10.2026"
       place: "KneippTreff"
       place_short: "K"
       price:
-        member: "24,00"
-        guest: "32,00"
+        member: "27,00"
+        guest: "36,00"
       trainers:
-        - name: "Sabine Hrabowsky"
-          contact: "0821 2679137"
+        - name: "Uschi Seyler"
+          contact: "0821 6080177"
 
     - name: "Bunte-Gute-Laune-Stunde"
       comment: 
       slot: "17:15&ndash;18:15"
       duration: "3 x 60 min"
-      start: "26.06.2026, 03.07.2026, 10.07.2026"
+      start: "27.11.2026, 04.12.2026, 11.12.2026"
       place: "KneippTreff"
       place_short: "K"
       price:
-        member: "24,00"
-        guest: "32,00"
+        member: "18,00"
+        guest: "24,00"
       trainers:
         - name: "Claudia Schmid"
           contact: "0821 6070789"
 
-    - name: "Vortrag: Chancen eines kleinen Gartens"
+    - name: "Vortrag: Kleine Wehwechen selbst behandeln"
       comment: 
-      slot: "19:30"
+      slot: "18:00&ndash;19:30"
       duration: ""
-      start: "24.04.2026"
+      start: "23.10.2026"
       place: "KneippTreff"
       place_short: "K"
       price:
         member: "5,00"
         guest: "7,00"
       trainers:
-        - name: "Claudia Schmid"
-          contact: "(keine Anmeldung erforderlich)"
+        - name: "Karin Scherer"
+          contact: "0821 7290077"
